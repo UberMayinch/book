@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Philosophy 102.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Philosophy 102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Philosophy 102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Philosophy 102.md"
               }
             }
           }
@@ -193,20 +193,20 @@
   },
   "active": "b7a3237bff198ca7",
   "lastOpenFiles": [
-    "Project Logistics.md",
-    "index.md",
-    "Rhetoric 102.md",
-    "Improvement 101.md",
-    "Economics 103.md",
-    "Economics 101.md",
+    "Philosophy 101.md",
     "Economics 102.md",
-    "Logistics for Project.md",
-    "Philosophy 102.md",
+    "Economics 103.md",
+    "Improvement 101.md",
+    "Rhetoric 102.md",
     "Rhetoric 101.md",
     "Psychology 102.md",
-    "Philosophy 103.md",
-    "Philosophy 101.md",
     "Psychology 101.md",
+    "Philosophy 103.md",
+    "Project Logistics.md",
+    "Philosophy 102.md",
+    "index.md",
+    "Economics 101.md",
+    "Logistics for Project.md",
     "Religion 101.md",
     "Learning 101.md",
     "Psych 101.md"
