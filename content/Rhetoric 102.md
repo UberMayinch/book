@@ -14,3 +14,4 @@ Machiavellianism broadly works.
 Power is also like money. It is okay to not be a beggar. When you strive for power instead of freedom though, then the incentives become corrupted.
 
 It is a moral imperative to not be a beggar.
+

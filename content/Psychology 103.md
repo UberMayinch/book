@@ -17,6 +17,8 @@ A Tool is something that streamlines and reduces the difference between idea and
 Engineering is useful because it teaches you to use tools to solve problems. To actually implement something out in the world. 
 E.g. with a CS degree you should be able to build anything that comes to your mind within the purview of the digital.
 
-The way to get good at using tools is to use tools. [[Improvement 101#Goodhart's Law]]
+The way to get good at using tools is to use tools. [[Psychology 103#Goodhart's Law]]
 - Blooms taxonomy, creation at top.
 - Top Down vs Bottom Up (?) The exact thing you're practicing is what you're getting good at. Beware of trap of trickle down returns.
+
+

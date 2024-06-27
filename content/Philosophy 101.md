@@ -1,3 +1,22 @@
+## Why Philosophy?
+---
+Philosophy = Philo + Sophia = love of truth. 
+
+Fact: Pursuing the truth is not always aligned with evolutionary incentives ([[Psychology 101]]).
+
+That which makes you seek truth without compromise is the essence of philosophy.
+
+Why should one do philosophy?
+
+The question lends itself to endless debate because any justification to engage is almost necessarily **recursive** and **epistemically circular.** 
+
+Notice that the only way to answer this question is to refer to some internal intuition. This is an example of a question approaching which requires **meta-cognition**, or reflecting on one's own thought. 
+
+These questions have a tendency to get trapped in linguistic games and breakdown our system of language and thought in a similar way to how Godel's Incompleteness Theorem breaks logical systems through self-reference.
+
+
+There is a spectrum of beliefs from people who believe that it is your divine duty to seek truth to those who doubt the existence of truth altogether. 
+
 ## Metaphysics
 ---
 Do you believe in god?
