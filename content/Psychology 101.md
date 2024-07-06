@@ -26,3 +26,11 @@ Most people are lonely and miserable. If you take away your own relationships wh
 
 
 
+
+People package their own unmet desires as **prescriptions**. A "How-To" on life, or any part of it. 
+
+They spend their whole lives trying to conform to societal, religious, familial or other prescriptions for life, suffering in the process. 
+
+When they get nowhere with these, instead of calling them out for the scams they are, people play along and pass them on to the next generation to get the sort of neurotic enjoyment they have been conditioned into by these very same prescriptions. 
+
+There is no "should" for any action. There is only cause and effect. 

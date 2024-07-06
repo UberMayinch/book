@@ -20,6 +20,7 @@ Applied epistemology is a problem we have a pretty good heuristic solution for; 
 > $p(b | a) = likelihood$
 
 This is a heuristic for belief updation.
+Prior probability multiplied by odds after experiment gives posterior odds. 
 
 
 > **Scientific Method** 

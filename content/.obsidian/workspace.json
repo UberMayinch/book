@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology 101.md",
+                "file": "Philosophy 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology 101.md",
+                "file": "Philosophy 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology 101.md",
+                "file": "Philosophy 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology 101.md"
+                "file": "Philosophy 101.md"
               }
             }
           }
@@ -161,17 +161,19 @@
   },
   "active": "6a6d2e2c976eae8b",
   "lastOpenFiles": [
+    "Psychology 103.md",
+    "Psychology 101.md",
     "Psychology 102.md",
     "Philosophy 101.md",
-    "Psychology 101.md",
     "Philosophy 102.md",
-    "Psychology 103.md",
+    "Economics 101.md",
+    "Economics 102.md",
+    "Economics 103.md",
+    "Philosophy 103.md",
     "Psychology 103.md~",
     "Psychology 102.md~",
     "Rhetoric 102.md~",
     "index.md~",
-    "Philosophy 103.md",
-    "Economics 103.md",
     "Project Logistics.md",
     "Rhetoric 101.md",
     "index.md",
@@ -188,8 +190,6 @@
     "chapters.tex",
     "Gender 101.md",
     "Media 101.md",
-    "Economics 102.md",
-    "Economics 101.md",
     "Logistics for Project.md",
     "Religion 101.md",
     "Learning 101.md",
